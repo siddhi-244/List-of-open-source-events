@@ -1,6 +1,7 @@
 # List-of-open-source-events
-This repository contains list of open source events.
+This repository contains list of open source events.  
 
+_If you know any Open source program which is not included here feel free to open an issue._
 
 |Open Source Events |Link to website|Timeline|
 |--------------------|--------------|----------|
