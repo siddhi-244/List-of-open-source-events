@@ -9,3 +9,9 @@ This repository contains list of open source events.
 |GirlScript Summer of Code|[Link](https://gssoc.girlscript.tech/#about-girlscript)|[Link](https://gssoc.girlscript.tech/schedule.html)|
 |Outreachy|[Link](https://www.outreachy.org/)|-|
 |OpenCode IIITA|[Link](https://opencodeiiita.github.io/)|-|
+
+
+## February 
+
+|Open Source Events |Link to website|Timeline|
+|-------------------|----------------|-------|
