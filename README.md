@@ -8,3 +8,4 @@ This repository contains list of open source events.
 |JIIT Open-Source Developers Circle|[Link](https://jiitodc.netlify.app/)|-|
 |GirlScript Summer of Code|[Link](https://gssoc.girlscript.tech/#about-girlscript)|[Link](https://gssoc.girlscript.tech/schedule.html)|
 |Outreachy|[Link](https://www.outreachy.org/)|-|
+|OpenCode IIITA|[Link](https://opencodeiiita.github.io/)|-|
